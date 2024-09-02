@@ -1,0 +1,7 @@
+ckpt/
+Anaconda*.sh
+PixArt-sigma/
+outputs/
+__pycache__/
+*.safetensors
+*.pth

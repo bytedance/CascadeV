@@ -14,7 +14,7 @@ then
     cd PixArt-sigma
     git checkout 716d75d7f59f3498ab4a712cdbd28b6a93b50174
     pip install -r requirements.txt
-    pip install imageio==2.31.2 imageio-ffmpeg==0.4.9
+    pip install setuptools==69.5.1 imageio==2.31.2 imageio-ffmpeg==0.4.9
 fi
 
 ####################

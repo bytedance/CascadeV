@@ -87,7 +87,6 @@ Recommend to use Conda
 ```
 conda create -n cascadev python==3.9.0
 conda activate cascadev
-conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.7 -c pytorch -c nvidia
 ```
 
 Install [PixArt-Σ](https://github.com/PixArt-alpha/PixArt-sigma)
